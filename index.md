@@ -1,5 +1,3 @@
-# Introduction
-
 ## Model-Based Reinforcement Learning
 You can learn all about Model-Based Reinforcement Learning and the rest of my EECS C106B Final Project by looking at the following research paper: [Paper](https://drive.google.com/file/d/1OsScbRs6FRybSrLx8GDY3e5et3INpraQ/view?usp=sharing)
 
